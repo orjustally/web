@@ -1,0 +1,19 @@
+/* ----- media query -----*/
+
+@media (max-width: 500px) {
+  .meow {
+    width: "330px",
+  }
+}
+
+@media (max-width: 700px) {
+  .meow {
+    width: "440px",
+  }
+}
+
+@media (max-width: 990px) {
+  .meow {
+    width: "660px",
+  }
+}
