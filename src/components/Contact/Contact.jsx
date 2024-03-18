@@ -37,7 +37,7 @@ export default function Contact() {
         <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service.</p>
         <ul>
           <li><img src={mail} alt=''/>info@duodiag.work</li>
-          <li><img src={call} alt=''/>+60123456789</li>
+          <li><img src={call} alt=''/>+60134951942</li>
           <li><img src={loc} alt=''/>Kuala Lumpur, MY</li>
         </ul>
       </div>
